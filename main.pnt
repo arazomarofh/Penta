@@ -1,0 +1,9 @@
+func main()
+{
+    set name = "Araz Omarov";
+    set age = 15;
+    set height = 1.73;
+    set programmer = True;
+
+    o("Hello {name}, your age is {age} and your height is {height}.")
+}   
